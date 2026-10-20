@@ -86,5 +86,8 @@ This repo is FontSpan's public page: what it does, what changed between
 versions, and where to report problems or ask for features. FontSpan is
 closed source, so there's no app code here.
 
-Made by Non Foundry. nonfoundry.com
-fontspan.app
+Made by Non Foundry.
+
+[nonfoundry.com](https://nonfoundry.com)
+
+[fontspan.app](https://fontspan.app)
