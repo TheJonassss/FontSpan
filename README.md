@@ -48,7 +48,7 @@ fontspan.app
 
 **02. Google Fonts Glyphsets**
    
-![Overview](screenshots/GoogleFonts.png)
+![Overview](screenshots/Google-Fonts.png)
 
 
 **03. Languages**
@@ -68,7 +68,7 @@ fontspan.app
 
 **06. Full List of Languages**
    
-![Overview](screenshots/Coverlanguages.png)
+![Overview](screenshots/Cover-languages.png)
 
 
 **07. Export Report**
