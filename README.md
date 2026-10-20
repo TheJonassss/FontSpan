@@ -37,7 +37,7 @@ See [CHANGELOG.md](CHANGELOG.md) for the full version history.
 One-time purchase, no subscription. A 15-day trial is available and
 doesn't require a card.
 
-fontspan.app
+[fontspan.app](https://fontspan.app)
 
 ## Screenshots
 
@@ -51,7 +51,7 @@ fontspan.app
 ![Overview](screenshots/Google-Fonts.png)
 
 
-**03. Languages**
+**03. Incomplete Languages**
    
 ![Overview](screenshots/Vietnamese.png)
 
@@ -74,6 +74,7 @@ fontspan.app
 **07. Export Report**
    
 ![Overview](screenshots/Export-report.png)
+
 
 ## Found a bug or have an idea?
 
