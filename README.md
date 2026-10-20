@@ -1,6 +1,8 @@
 # FontSpan
 
 Font coverage analysis for type designers, built by Non Foundry.
+   
+![Overview](screenshots/Overview.png)
 
 ## What it does
 
@@ -39,7 +41,39 @@ fontspan.app
 
 ## Screenshots
 
-Coming soon.
+**01. Unicode**
+   
+![Overview](screenshots/Unicode.png)
+
+
+**02. Google Fonts Glyphsets**
+   
+![Overview](screenshots/GoogleFonts.png)
+
+
+**03. Languages**
+   
+![Overview](screenshots/Vietnamese.png)
+
+
+**04. Missing Glyphs**
+   
+![Overview](screenshots/Missing.png)
+
+
+**05. Next Steps**
+   
+![Overview](screenshots/Next-steps.png)
+
+
+**06. Full List of Languages**
+   
+![Overview](screenshots/Coverlanguages.png)
+
+
+**07. Export Report**
+   
+![Overview](screenshots/Export-report.png)
 
 ## Found a bug or have an idea?
 
